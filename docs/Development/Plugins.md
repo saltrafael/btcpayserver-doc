@@ -114,7 +114,7 @@ SET search_path TO "BTCPayServer.Plugins.Template", public;
 
 ### UI Extension Points
 
-The extension poins offer you ways to add your plugin viewa and partials to the UI.
+The extension points offer you ways to add your plugin views and partials to the UI.
 They get defined in the plugin base class.
 The following snippet shows how you can add a link to your plugin to the main navigation:
 
