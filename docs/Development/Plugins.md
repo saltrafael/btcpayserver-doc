@@ -149,7 +149,7 @@ We extend them as we move along, same with [actions and filters](#actions-and-fi
 
 ### Actions and Filters
 
-In addtion to the extention points which hook into the UI, you can also use the following hooks to modify and extend behaviour:
+In addition to the extention points which hook into the UI, you can also use the following hooks to modify and extend behaviour:
 
 - [Action](https://github.com/btcpayserver/btcpayserver/blob/master/BTCPayServer.Abstractions/Contracts/IPluginHookAction.cs): Extend the core functionality
 - [Filters](https://github.com/btcpayserver/btcpayserver/blob/master/BTCPayServer.Abstractions/Contracts/IPluginHookFilter.cs): Do something and also return data
